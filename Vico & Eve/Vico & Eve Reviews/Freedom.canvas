@@ -1,11 +1,26 @@
 {
 	"nodes":[
-		{"id":"15123cea9c847c01","x":-1510,"y":-782,"width":250,"height":60,"type":"text","text":""},
-		{"id":"48cc7136f6de969c","type":"file","file":"Vico & Eve Reviews/Annie Hall - Woody Allen.md","x":-960,"y":-420,"width":400,"height":100},
-		{"id":"ea162ab0426653ea","type":"file","file":"Archivos/Portada.png","x":-540,"y":-440,"width":261,"height":400},
-		{"id":"97280f1ea0378258","type":"file","file":"Archivos/Escena fav.png","x":-960,"y":-280,"width":400,"height":225},
-		{"id":"404fd04b40cb7554","type":"file","file":"Archivos/15.06.2024.jpg","x":-1380,"y":-200,"width":400,"height":204},
-		{"id":"079d3d222ad1c932","type":"file","file":"Archivos/Paleta de color AH.png","x":-1380,"y":-524,"width":400,"height":284}
+		{"id":"cc1b1041834a1cc3","type":"file","file":"Archivos/Happy Birthday, kiddo.png","x":-2000,"y":120,"width":533,"height":400},
+		{"id":"fe601a07c231b15f","type":"file","file":"Archivos/8mil dólares.png","x":-2000,"y":554,"width":510,"height":287},
+		{"id":"e57f250b1cd82a6f","type":"file","file":"Archivos/Captura de pantalla 2024-06-27 013826.jpg","x":-360,"y":120,"width":849,"height":480},
+		{"id":"0b8aab5243f4e1e8","type":"text","text":"## A leading designer introduces the fundamental principles, techniques, and rules of _designing_ computer games","x":546,"y":320,"width":507,"height":176,"color":"6"},
+		{"id":"5660f4194539b791","type":"file","file":"Archivos/Captura de pantalla 2024-06-27 013928.jpg","x":-360,"y":656,"width":560,"height":371},
+		{"id":"006b8fef7527fd74","type":"file","file":"Archivos/Captura de pantalla 2024-06-27 013939.jpg","x":-360,"y":1038,"width":560,"height":368},
+		{"id":"fcad994c4b761b45","type":"file","file":"Archivos/Spangler.png","x":-2000,"y":880,"width":533,"height":400},
+		{"id":"8efbf641ebc9b527","type":"file","file":"Archivos/Malcolm y el pollo congelado.png","x":-1440,"y":120,"width":400,"height":288},
+		{"id":"ca891b875ac554d5","type":"file","file":"Archivos/Debiste verlo, Lois..png","x":-1447,"y":464,"width":487,"height":366},
+		{"id":"362a755958c5116a","type":"file","file":"Archivos/Richie being Richie.png","x":-1403,"y":903,"width":400,"height":319},
+		{"id":"ce86258098dc5561","type":"text","text":"# Vico mostrándome que justamente quiere aprender a diseñar.","x":546,"y":120,"width":347,"height":167,"color":"#1414cb"},
+		{"id":"ca278bf50d24fe22","type":"text","text":"### -¿Y no quieres tomar una foto en donde sí salga?\n### -En la anterior sí saliste, bueno... no, no saliste. Okay.","x":200,"y":727,"width":410,"height":176,"color":"5"},
+		{"id":"eefb21f20fb6aaf3","type":"text","text":"### Vico bonito. Eve nada bonita pero sí con mucho sueño.","x":200,"y":1167,"width":321,"height":110,"color":"5"},
+		{"id":"ab3e1cea6e34d454","type":"file","file":"Archivos/TheArtOfGameDesign.png","x":937,"y":464,"width":231,"height":231},
+		{"id":"6ea86768a8749371","type":"file","file":"Archivos/No se les ocurra ni pensarlo.png","x":-960,"y":520,"width":564,"height":848},
+		{"id":"cb6728f8eb5dfe35","x":-960,"y":146,"width":480,"height":236,"color":"#865647","type":"text","text":"# Una vidoellamada de Vico & Eve-\n## 26.06.2024\n\n### Después de que Venezuela le ganara a México 1-0. :P"},
+		{"id":"48cc7136f6de969c","type":"file","file":"Vico & Eve Reviews/Annie Hall - Woody Allen.md","x":-1244,"y":-1003,"width":757,"height":189},
+		{"id":"97280f1ea0378258","type":"file","file":"Archivos/Escena fav.png","x":-1244,"y":-737,"width":757,"height":426},
+		{"id":"ea162ab0426653ea","type":"file","file":"Archivos/Portada.png","x":-449,"y":-1041,"width":494,"height":757},
+		{"id":"404fd04b40cb7554","type":"file","file":"Archivos/15.06.2024.jpg","x":-2040,"y":-586,"width":757,"height":386},
+		{"id":"079d3d222ad1c932","type":"file","file":"Archivos/Paleta de color AH.png","x":-2040,"y":-1200,"width":757,"height":538}
 	],
 	"edges":[]
 }

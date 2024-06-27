@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6209eba4b6d73436",
+        "id": "d7e6f8aa2f822627",
         "type": "tabs",
         "children": [
           {
-            "id": "892ada67a32cc7ed",
+            "id": "6cda468e735397d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "viewState": {
+                  "x": -359.2293005269646,
+                  "y": 913.4116392521317,
+                  "zoom": -1.3455520703074277
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,46 +127,55 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vico & Eve Reviews/Freedom.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "892ada67a32cc7ed",
+  "active": "6cda468e735397d2",
   "lastOpenFiles": [
+    "Archivos/TheArtOfGameDesign.png",
+    "Archivos/Captura de pantalla 2024-06-27 013939.jpg",
+    "Archivos/Captura de pantalla 2024-06-27 013928.jpg",
+    "Archivos/Captura de pantalla 2024-06-27 013826.jpg",
+    "Archivos/Spangler.png",
+    "Vico & Eve Reviews/Freedom.canvas",
+    "Archivos/8mil dólares.png",
+    "Archivos/Debiste verlo, Lois..png",
+    "Archivos/Happy Birthday, kiddo.png",
+    "Archivos/No se les ocurra ni pensarlo.png",
+    "Archivos/Richie being Richie.png",
+    "Archivos/Malcolm y el pollo congelado.png",
+    "Vico & Eve Reviews/Lista de cosas para ver.md",
+    "Pending topics to talk - Ev & Vico/Topics.md",
     "Freedom.canvas",
     "Vico & Eve Reviews/Primera opinión de Victor.md",
-    "Vico & Eve Reviews/Lista de cosas para ver.md",
-    "Vico & Eve Reviews/Freedom.canvas",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
     "Vico & Eve Reviews",
     "Annie Hall - Woody Allen.md",
-    "Pending topics to talk - Ev & Vico/Topics.md",
     "Lista de cosas para ver.md",
     "Stuff/Datos de Eve 🐱.md",
     "Stuff/Datos de Vico✌.md",
     "Stuff/both 🌿.md",
     "Stuff",
     "Pending topics to talk - Ev & Vico",
-    "Archivos/Portada.png",
-    "Archivos/Escena fav.png",
-    "Archivos/Paleta de color AH.png",
-    "Archivos/15.06.2024.jpg",
     "Archivos",
     "Primera opinión de Victor.md"
   ]
