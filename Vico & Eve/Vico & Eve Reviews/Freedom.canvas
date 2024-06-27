@@ -20,7 +20,8 @@
 		{"id":"97280f1ea0378258","type":"file","file":"Archivos/Escena fav.png","x":-1244,"y":-737,"width":757,"height":426},
 		{"id":"ea162ab0426653ea","type":"file","file":"Archivos/Portada.png","x":-449,"y":-1041,"width":494,"height":757},
 		{"id":"404fd04b40cb7554","type":"file","file":"Archivos/15.06.2024.jpg","x":-2040,"y":-586,"width":757,"height":386},
-		{"id":"079d3d222ad1c932","type":"file","file":"Archivos/Paleta de color AH.png","x":-2040,"y":-1200,"width":757,"height":538}
+		{"id":"079d3d222ad1c932","type":"file","file":"Archivos/Paleta de color AH.png","x":-2040,"y":-1200,"width":757,"height":538},
+		{"id":"8976a76011bde42d","x":-2000,"y":1331,"width":510,"height":229,"color":"#e51fb0","type":"text","text":"#### PD. Este día aprendí a usar GitHub para nuestro beneficio banal de andar colocando reseñas y chucherías. Vico lo ha explicado increíble. \n\n#### *Descubrí que Brunhilda y Sigurd tuvieron hijos... jaja*"}
 	],
 	"edges":[]
 }
