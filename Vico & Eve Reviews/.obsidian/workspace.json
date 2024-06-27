@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "f3158187cd899eb7",
+    "id": "bc2172763e5f7b1d",
     "type": "split",
     "children": [
       {
-        "id": "6209eba4b6d73436",
+        "id": "762f312453a2c6e9",
         "type": "tabs",
         "children": [
           {
-            "id": "892ada67a32cc7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Annie Hall - Woody Allen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbc399a291665f12",
+            "id": "dee806297b39fefd",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -28,28 +16,27 @@
                 "file": "Freedom.canvas",
                 "viewState": {
                   "x": -829.5,
-                  "y": -260,
-                  "zoom": 0
+                  "y": -94.36426470588233,
+                  "zoom": -0.8327113411766024
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ce50ba68a52c7554",
+    "id": "017cccecb2e99b57",
     "type": "split",
     "children": [
       {
-        "id": "95be53f8f972da93",
+        "id": "a41a7a915e94511b",
         "type": "tabs",
         "children": [
           {
-            "id": "b570c9dfd4fc3897",
+            "id": "85f65f927b6807ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +46,7 @@
             }
           },
           {
-            "id": "7dd6a2774702f162",
+            "id": "e8a0f06f320604cf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +61,7 @@
             }
           },
           {
-            "id": "74870409dd5c7bd1",
+            "id": "5c0b33050947e7fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,15 +75,15 @@
     "width": 300
   },
   "right": {
-    "id": "4d7d6d0c9838414b",
+    "id": "46e5edcc7b99882d",
     "type": "split",
     "children": [
       {
-        "id": "5207f070eea90487",
+        "id": "85488222fd313f60",
         "type": "tabs",
         "children": [
           {
-            "id": "311ab67ca2ed12e1",
+            "id": "95c131453ddc87dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,7 +100,7 @@
             }
           },
           {
-            "id": "dd3ac815273f136a",
+            "id": "ce52b76023b5ea99",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +112,7 @@
             }
           },
           {
-            "id": "091c45be7c174398",
+            "id": "235ab4551f8d11c7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +123,7 @@
             }
           },
           {
-            "id": "086fca94aaac8c5c",
+            "id": "6ee46a9237701b61",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,30 +141,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fbc399a291665f12",
+  "active": "dee806297b39fefd",
   "lastOpenFiles": [
-    "Stuff/Datos de Eve 🐱.md",
+    "Annie Hall - Woody Allen.md",
+    "Pending topics to talk - Ev & Vico/Topics.md",
+    "Primera opinión de Victor.md",
     "Stuff/Datos de Vico✌.md",
+    "Stuff/Datos de Eve 🐱.md",
     "Stuff/both 🌿.md",
     "Stuff",
-    "Pending topics to talk - Ev & Vico/Topics.md",
     "Pending topics to talk - Ev & Vico",
-    "Annie Hall - Woody Allen.md",
-    "Freedom.canvas",
     "Archivos/Portada.png",
-    "Archivos/Escena fav.png",
     "Archivos/Paleta de color AH.png",
+    "Archivos/Escena fav.png",
     "Archivos/15.06.2024.jpg",
     "Archivos",
-    "Primera opinión de Victor.md",
     "Lista de cosas para ver.md"
   ]
 }
