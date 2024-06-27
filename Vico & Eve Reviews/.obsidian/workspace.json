@@ -11,14 +11,11 @@
             "id": "dee806297b39fefd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Freedom.canvas",
-                "viewState": {
-                  "x": -829.5,
-                  "y": -94.36426470588233,
-                  "zoom": -0.8327113411766024
-                }
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Freedom.canvas",
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Freedom.canvas",
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Freedom.canvas"
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md"
               }
             }
           }
@@ -149,11 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dee806297b39fefd",
+  "active": "85f65f927b6807ea",
   "lastOpenFiles": [
-    "Annie Hall - Woody Allen.md",
+    "Vico & Eve Reviews",
+    "Vico & Eve Reviews/Freedom.canvas",
+    "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
     "Pending topics to talk - Ev & Vico/Topics.md",
-    "Primera opinión de Victor.md",
+    "Vico & Eve Reviews/Primera opinión de Victor.md",
     "Stuff/Datos de Vico✌.md",
     "Stuff/Datos de Eve 🐱.md",
     "Stuff/both 🌿.md",
@@ -164,6 +163,6 @@
     "Archivos/Escena fav.png",
     "Archivos/15.06.2024.jpg",
     "Archivos",
-    "Lista de cosas para ver.md"
+    "Vico & Eve Reviews/Lista de cosas para ver.md"
   ]
 }
