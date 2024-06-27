@@ -1,0 +1,9 @@
+- [ ] Vico: Es común en la gente inteligente ... dejar todo a última hora (?)
+- [ ] Eve: Pandemia, depresión y dejar la medicación
+- [ ] Hablar mucho más acerca del arte (?
+- [ ] Los prejuicios y estigmas de V. con lxs compañerxs de trabajo
+- [ ] ¿Algo acerca de los hijos?
+- [ ] Los celos son amigos, no comida. 
+- [ ] 20 de julio 
+- [ ] Mandarle contenido de dibujo.
+- [ ] Eve: las cosas materiales. Cartas perdidas, tazas rotas. 
