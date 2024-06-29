@@ -1,3 +1,4 @@
 - 🎂 23 de enero
 - Caricaturas fav: Coraje, el perro cobarde | Avatar | Mansión Foster | Bob Esponja | Dexter | Flapjack | Samurai Jack
+- Postre favorito: eclair
 - 
