@@ -4,6 +4,6 @@
 - [ ] Los prejuicios y estigmas de V. con lxs compañerxs de trabajo
 - [ ] ¿Algo acerca de los hijos?
 - [ ] Los celos son amigos, no comida. 
-- [ ] 20 de julio 
+- [x] 20 de julio 
 - [ ] Mandarle contenido de dibujo.
 - [ ] Eve: las cosas materiales. Cartas perdidas, tazas rotas. 

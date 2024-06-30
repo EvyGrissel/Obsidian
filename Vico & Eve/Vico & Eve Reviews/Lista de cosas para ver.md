@@ -1,8 +1,9 @@
-- [ ] [[Annie Hall - Woody Allen]] | 15.06.2024
+- [x] [[Annie Hall - Woody Allen]] | 15.06.2024
 - [ ] [[Matar a un Ruiseñor -Robert Mulligan ]] 
 - [ ] [[Exit Through the Gift Shop - Banksy]] 
 - [ ] [[Damien Hirst_: Treasures From the Wreck of the Unbelievable]]
 - [ ] [[Caricaturas, episodios fav]]
 - [ ] [[Jodorowsky's Dune]]
-- [ ] [[Malcolm in the middle]] | 26.06.2024 - 
+- [x] [[Malcolm in the middle]] | 26.06.2024 - 
 - [ ] [[The Thing (1982)]]
+- [ ] 

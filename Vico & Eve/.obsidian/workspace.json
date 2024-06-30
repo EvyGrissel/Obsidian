@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff/both 🌿.md",
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff/both 🌿.md",
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff/both 🌿.md",
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stuff/both 🌿.md"
+                "file": "Vico & Eve Reviews/Lista de cosas para ver.md"
               }
             }
           }
@@ -138,35 +138,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "6cda468e735397d2",
   "lastOpenFiles": [
-    "Vico & Eve Reviews/Lista de cosas para ver.md",
-    "Vico & Eve Reviews/Primera opinión de Victor.md",
-    "Vico & Eve Reviews/Freedom.canvas",
-    "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
-    "Stuff/Datos de Vico✌.md",
-    "Archivos/TheArtOfGameDesign.png",
-    "Archivos/Escena fav.png",
-    "Archivos/Happy Birthday, kiddo.png",
-    "Stuff/Datos de Eve 🐱.md",
-    "Stuff/both 🌿.md",
     "Pending topics to talk - Ev & Vico/Topics.md",
+    "Stuff/ThisIsNotCorny.canvas",
+    "Stuff/Sueños e historias incompletas.md",
+    "Stuff/both 🌿.md",
+    "Stuff/Datos de Eve 🐱.md",
+    "Stuff/Datos de Vico✌.md",
+    "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
+    "Vico & Eve Reviews/Freedom.canvas",
+    "Vico & Eve Reviews/Lista de cosas para ver.md",
+    "Archivos/29.09.2024.png",
+    "Archivos/Vico me dijo cosas bonitas.png",
+    "Archivos/TheArtOfGameDesign.png",
     "Archivos/Captura de pantalla 2024-06-27 013939.jpg",
     "Archivos/Captura de pantalla 2024-06-27 013928.jpg",
     "Archivos/Captura de pantalla 2024-06-27 013826.jpg",
     "Archivos/Spangler.png",
     "Archivos/8mil dólares.png",
     "Archivos/Debiste verlo, Lois..png",
-    "Archivos/No se les ocurra ni pensarlo.png",
+    "Archivos/Happy Birthday, kiddo.png",
     "Freedom.canvas",
+    "Vico & Eve Reviews/Primera opinión de Victor.md",
     "Vico & Eve Reviews",
     "Annie Hall - Woody Allen.md",
     "Lista de cosas para ver.md",
