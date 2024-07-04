@@ -21,7 +21,25 @@
 		{"id":"404fd04b40cb7554","type":"file","file":"Archivos/15.06.2024.jpg","x":-2040,"y":-586,"width":757,"height":386},
 		{"id":"079d3d222ad1c932","type":"file","file":"Archivos/Paleta de color AH.png","x":-2040,"y":-1200,"width":757,"height":538},
 		{"id":"8976a76011bde42d","type":"text","text":"#### PD. Este día aprendí a usar GitHub para nuestro beneficio banal de andar colocando reseñas y chucherías. Vico lo ha explicado increíble. \n\n#### *Descubrí que Brunhilda y Sigurd tuvieron hijos... jaja*","x":-2000,"y":1331,"width":510,"height":229,"color":"#e51fb0"},
-		{"id":"97280f1ea0378258","type":"file","file":"Archivos/Escena fav.png","x":-1244,"y":-799,"width":757,"height":426}
+		{"id":"97280f1ea0378258","type":"file","file":"Archivos/Escena fav.png","x":-1244,"y":-799,"width":757,"height":426},
+		{"id":"7f1a00ec67ebb05e","type":"file","file":"Archivos/Atticus y Jean.png","x":1925,"y":-1303,"width":822,"height":616},
+		{"id":"2238528c1a58e50d","type":"file","file":"Archivos/Protagonista de Scout.png","x":2840,"y":-983,"width":718,"height":453},
+		{"id":"416a1eab2fe5033f","type":"file","file":"Archivos/Mary.png","x":3199,"y":-1195,"width":282,"height":282},
+		{"id":"6486864466368059","type":"file","file":"Archivos/Escena fav 1.png","x":840,"y":-687,"width":643,"height":482},
+		{"id":"2b51d008a809d8b4","type":"file","file":"Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md","x":1135,"y":-913,"width":696,"height":157},
+		{"id":"d675ad20b1ad2401","type":"file","file":"Archivos/Boo.png","x":1400,"y":-727,"width":701,"height":395},
+		{"id":"37c9200ebb728157","type":"file","file":"Archivos/The making of.png","x":493,"y":-687,"width":400,"height":291},
+		{"id":"eaf67c4124e271c5","type":"file","file":"Archivos/Diversión en el set.png","x":2400,"y":-1621,"width":533,"height":341},
+		{"id":"4f30ceaafbe3c867","type":"file","file":"Archivos/TKM 1.png","x":1040,"y":-1275,"width":885,"height":280},
+		{"id":"a2bff68891415335","type":"file","file":"Archivos/1962.png","x":1180,"y":-1856,"width":400,"height":298},
+		{"id":"9b67d428eaa113f2","type":"file","file":"Archivos/Robert Mulligan.png","x":1240,"y":-1552,"width":790,"height":167},
+		{"id":"0b34c9bab3687310","type":"file","file":"Archivos/Portada del libro 1.png","x":493,"y":-1337,"width":480,"height":593,"color":"#622219"},
+		{"id":"ac418aba48c442cd","type":"file","file":"Archivos/Harper Lee.png","x":1180,"y":-1685,"width":467,"height":129},
+		{"id":"c7df1814c675caa3","type":"file","file":"Archivos/Amo.png","x":216,"y":-1856,"width":837,"height":471}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ed9f8680d1dfd70e","fromNode":"7f1a00ec67ebb05e","fromSide":"right","toNode":"2238528c1a58e50d","toSide":"left","color":"5"},
+		{"id":"3ffb51498f9d66a2","fromNode":"ac418aba48c442cd","fromSide":"left","toNode":"0b34c9bab3687310","toSide":"right","color":"5"},
+		{"id":"2bafca110e088798","fromNode":"9b67d428eaa113f2","fromSide":"left","toNode":"c7df1814c675caa3","toSide":"right","color":"6"}
+	]
 }
