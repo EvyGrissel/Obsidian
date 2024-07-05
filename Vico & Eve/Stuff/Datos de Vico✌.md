@@ -2,3 +2,4 @@
 - Caricaturas fav: Coraje, el perro cobarde | Avatar | Mansión Foster | Bob Esponja | Dexter | Flapjack | Samurai Jack
 - Postre favorito: eclair
 - Vicaris: vicarious - tool
+- earthbound mother 2

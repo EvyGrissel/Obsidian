@@ -1,4 +1,4 @@
-- [ ] Vico: Es común en la gente inteligente ... dejar todo a última hora (?)
+- [x] Vico: Es común en la gente inteligente ... dejar todo a última hora (?)
 - [ ] Eve: Pandemia, depresión y dejar la medicación
 - [ ] Hablar mucho más acerca del arte (?
 - [x] Los prejuicios y estigmas de V. con lxs compañerxs de trabajo
