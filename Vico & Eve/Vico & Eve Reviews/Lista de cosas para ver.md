@@ -6,4 +6,4 @@
 - [ ] [[Jodorowsky's Dune]]
 - [x] [[Malcolm in the middle]] | 26.06.2024 - 
 - [ ] [[The Thing (1982)]]
-- [ ] 
+- [ ] [[Paris, Texas (1984)]]
