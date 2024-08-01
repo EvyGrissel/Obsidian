@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"03b59239c5733cb4","type":"group","x":1700,"y":580,"width":1040,"height":584,"label":"Dzalbay"},
 		{"id":"cc1b1041834a1cc3","type":"file","file":"Archivos/Happy Birthday, kiddo.png","x":-2000,"y":120,"width":533,"height":400},
 		{"id":"fe601a07c231b15f","type":"file","file":"Archivos/8mil dólares.png","x":-2000,"y":554,"width":510,"height":287},
 		{"id":"e57f250b1cd82a6f","type":"file","file":"Archivos/Captura de pantalla 2024-06-27 013826.jpg","x":-360,"y":120,"width":849,"height":480},
@@ -35,7 +36,11 @@
 		{"id":"9b67d428eaa113f2","type":"file","file":"Archivos/Robert Mulligan.png","x":1240,"y":-1552,"width":790,"height":167},
 		{"id":"0b34c9bab3687310","type":"file","file":"Archivos/Portada del libro 1.png","x":493,"y":-1337,"width":480,"height":593,"color":"#622219"},
 		{"id":"ac418aba48c442cd","type":"file","file":"Archivos/Harper Lee.png","x":1180,"y":-1685,"width":467,"height":129},
-		{"id":"c7df1814c675caa3","type":"file","file":"Archivos/Amo.png","x":216,"y":-1856,"width":837,"height":471}
+		{"id":"c7df1814c675caa3","type":"file","file":"Archivos/Amo.png","x":216,"y":-1856,"width":837,"height":471},
+		{"id":"39a8c83e93675c50","type":"file","file":"Archivos/MeridaJulio/DzalbayArtsy.jpg","x":2400,"y":600,"width":300,"height":400},
+		{"id":"0f5d98f07a38a6ab","type":"file","file":"Archivos/MeridaJulio/Dzalbay.jpg","x":2060,"y":660,"width":300,"height":400},
+		{"id":"26518e3b203c3dc2","type":"file","file":"Archivos/MeridaJulio/SelfieDzalbay.jpg","x":1720,"y":620,"width":300,"height":400},
+		{"id":"5fb77b5ad510c7e2","type":"text","text":"### Nuestra primera cita\n(aparentemente Eve lleva a todos sus culitos a este bar jasdjsadb)","x":2085,"y":1080,"width":315,"height":140}
 	],
 	"edges":[
 		{"id":"ed9f8680d1dfd70e","fromNode":"7f1a00ec67ebb05e","fromSide":"right","toNode":"2238528c1a58e50d","toSide":"left","color":"5"},

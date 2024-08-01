@@ -11,11 +11,14 @@
             "id": "6cda468e735397d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
-                "mode": "source",
-                "source": false
+                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "viewState": {
+                  "x": 760.8140674364834,
+                  "y": -384.11888823482366,
+                  "zoom": -2.5
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md"
+                "file": "Vico & Eve Reviews/Freedom.canvas"
               }
             }
           }
@@ -148,26 +151,30 @@
   },
   "active": "6cda468e735397d2",
   "lastOpenFiles": [
-    "Vico & Eve Reviews/Freedom.canvas",
+    "Vico & Eve Reviews/Lista de cosas para ver.md",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
+    "Vico & Eve Reviews/Freedom.canvas",
     "Stuff/ThisIsNotCorny.canvas",
     "Stuff/Sueños e historias incompletas.md",
-    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
-    "Vico & Eve Reviews/Lista de cosas para ver.md",
     "Stuff/Datos de Vico✌.md",
     "Stuff/Datos de Eve 🐱.md",
     "Stuff/both 🌿.md",
-    "Archivos/8mil dólares.png",
+    "Archivos/MeridaJulio/Manitas.jpg",
+    "Archivos/MeridaJulio/MariaYMontejo.jpg",
+    "Archivos/MeridaJulio/SelfieBebes1.jpg",
+    "Archivos/MeridaJulio/IMG20240728220051.jpg",
+    "Archivos/MeridaJulio/DzalbayArtsy.jpg",
+    "Archivos/MeridaJulio/Dzalbay.jpg",
+    "Archivos/MeridaJulio/CafecitoYChai.jpg",
+    "Archivos/MeridaJulio/AcuarelaCoraje.jpg",
+    "Archivos/MeridaJulio/AnnieHall3.png",
+    "Archivos/MeridaJulio/AnnieHall1.png",
     "Pending topics to talk - Ev & Vico/Topics.md",
-    "Pasted image 20240703211437.png",
-    "Archivos/Robert Mulligan.png",
-    "Archivos/Harper Lee.png",
-    "Archivos/1962.png",
-    "Archivos/Amo.png",
-    "Archivos/Diversión en el set.png",
-    "Archivos/The making of.png",
-    "Archivos/Boo.png",
-    "Archivos/Protagonista de Scout.png",
+    "Archivos/MeridaJulio",
+    "Archivos/drive-download-20240801T010541Z-001.zip",
+    "Archivos/Unconfirmed 325785.crdownload",
+    "2024-07-31.md",
+    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
     "Freedom.canvas",
     "Vico & Eve Reviews/Primera opinión de Victor.md",
     "Vico & Eve Reviews",
