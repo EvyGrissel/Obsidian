@@ -11,12 +11,8 @@
             "id": "a05c7e4a943a6616",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +141,7 @@
   "active": "a05c7e4a943a6616",
   "lastOpenFiles": [
     "Vico & Eve Reviews/Freedom.canvas",
-    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
+    "Pending topics to talk - Ev & Vico/Topics.md",
     "Stuff/both 🌿.md",
     "Stuff/Datos de Eve 🐱.md",
     "Stuff/Datos de Vico✌.md",
@@ -157,6 +149,7 @@
     "Stuff/ThisIsNotCorny.canvas",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
     "Vico & Eve Reviews/Lista de cosas para ver.md",
+    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
     "Archivos/MeridaJulio/xoxoreservacion.jpg",
     "Archivos/MeridaJulio/Ventana.jpg",
     "Archivos/MeridaJulio/TartaVasca.jpg",
