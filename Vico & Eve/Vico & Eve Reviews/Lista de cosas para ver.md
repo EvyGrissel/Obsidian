@@ -8,3 +8,6 @@
 - [ ] [[The Thing (1982)]]
 - [ ] [[The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson]] | 31.07.2024
 - [ ] [[Paris, Texas (1984)]]
+- [ ] [[Lautrec - Roger Planchon (1998)]]
+- [ ] [[Pride & Prejudice - Joe Wright (2006)]]
+- [ ] 
