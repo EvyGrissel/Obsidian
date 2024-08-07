@@ -1,18 +1,25 @@
 {
   "main": {
-    "id": "98fc21357393190c",
+    "id": "f3158187cd899eb7",
     "type": "split",
     "children": [
       {
-        "id": "62fdfdab8049a7ef",
+        "id": "d7e6f8aa2f822627",
         "type": "tabs",
         "children": [
           {
-            "id": "a05c7e4a943a6616",
+            "id": "2d8ee7e5e90f3a02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Stuff/ThisIsNotCorny.canvas",
+                "viewState": {
+                  "x": -20,
+                  "y": -98,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -21,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "316bd3e95597b808",
+    "id": "ce50ba68a52c7554",
     "type": "split",
     "children": [
       {
-        "id": "efb3f314fdc4f7c1",
+        "id": "95be53f8f972da93",
         "type": "tabs",
         "children": [
           {
-            "id": "4c457c59deebb24e",
+            "id": "b570c9dfd4fc3897",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +46,7 @@
             }
           },
           {
-            "id": "3dc17337e4ef374f",
+            "id": "7dd6a2774702f162",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +61,7 @@
             }
           },
           {
-            "id": "fad242ac4cd9ac47",
+            "id": "74870409dd5c7bd1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "647c88574576eaef",
+    "id": "4d7d6d0c9838414b",
     "type": "split",
     "children": [
       {
-        "id": "9fa49c2a75695cb1",
+        "id": "5207f070eea90487",
         "type": "tabs",
         "children": [
           {
-            "id": "0426ec55d64d4afa",
+            "id": "311ab67ca2ed12e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stuff/ThisIsNotCorny.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +100,19 @@
             }
           },
           {
-            "id": "b81d9c953eb151d6",
+            "id": "dd3ac815273f136a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stuff/ThisIsNotCorny.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2918402307a35338",
+            "id": "091c45be7c174398",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,52 +123,69 @@
             }
           },
           {
-            "id": "cde80960c303f0bf",
+            "id": "086fca94aaac8c5c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stuff/ThisIsNotCorny.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a05c7e4a943a6616",
+  "active": "b570c9dfd4fc3897",
   "lastOpenFiles": [
-    "Vico & Eve Reviews/Freedom.canvas",
-    "Pending topics to talk - Ev & Vico/Topics.md",
-    "Stuff/both 🌿.md",
-    "Stuff/Datos de Eve 🐱.md",
     "Stuff/Datos de Vico✌.md",
     "Stuff/Sueños e historias incompletas.md",
     "Stuff/ThisIsNotCorny.canvas",
+    "Vico & Eve Reviews/Freedom.canvas",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
     "Vico & Eve Reviews/Lista de cosas para ver.md",
     "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
-    "Archivos/MeridaJulio/xoxoreservacion.jpg",
-    "Archivos/MeridaJulio/Ventana.jpg",
-    "Archivos/MeridaJulio/TartaVasca.jpg",
-    "Archivos/MeridaJulio/Somrisita.jpg",
-    "Archivos/MeridaJulio/SelfieJuntos.jpg",
-    "Archivos/MeridaJulio/SelfieDzalbay.jpg",
+    "Stuff/both 🌿.md",
     "Archivos/MeridaJulio/SelfieCalle.jpg",
-    "Archivos/MeridaJulio/SelfieBebes2.jpg",
-    "Archivos/MeridaJulio/SelfieBebes1.jpg",
-    "Archivos/MeridaJulio/MariaYMontejo.jpg",
-    "Archivos/MeridaJulio"
+    "Archivos/MeridaJulio/Ventana.jpg",
+    "Archivos/MeridaJulio/Somrisita.jpg",
+    "Archivos/MeridaJulio/Manitas.jpg",
+    "Archivos/MeridaJulio/DzalbayArtsy.jpg",
+    "Archivos/MeridaJulio/Dzalbay.jpg",
+    "Archivos/MeridaJulio/CafecitoYChai.jpg",
+    "Archivos/MeridaJulio/AcuarelaCoraje.jpg",
+    "Archivos/MeridaJulio/xoxoreservacion.jpg",
+    "Archivos/MeridaJulio/TartaVasca.jpg",
+    "Archivos/MeridaJulio/compressjpeg",
+    "Archivos/MeridaJulio/compressjpeg.zip",
+    "Archivos/MeridaJulio/Unconfirmed 673409.crdownload",
+    "Stuff/Datos de Eve 🐱.md",
+    "Pending topics to talk - Ev & Vico/Topics.md",
+    "Archivos/MeridaJulio",
+    "Archivos/drive-download-20240801T010541Z-001.zip",
+    "Archivos/Unconfirmed 325785.crdownload",
+    "2024-07-31.md",
+    "Freedom.canvas",
+    "Vico & Eve Reviews/Primera opinión de Victor.md",
+    "Vico & Eve Reviews",
+    "Annie Hall - Woody Allen.md",
+    "Lista de cosas para ver.md",
+    "Stuff",
+    "Pending topics to talk - Ev & Vico",
+    "Archivos",
+    "Primera opinión de Victor.md"
   ]
 }
