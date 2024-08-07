@@ -11,15 +11,34 @@
             "id": "6cda468e735397d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
-                "mode": "source",
-                "source": false
+                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "viewState": {
+                  "x": 1023.5,
+                  "y": -545.7107233502538,
+                  "zoom": -2.096416840270888
+                }
+              }
+            }
+          },
+          {
+            "id": "2d8ee7e5e90f3a02",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "viewState": {
+                  "x": 1023.5,
+                  "y": -147.99999999999983,
+                  "zoom": -2.096416840270888
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md",
+                "file": "Vico & Eve Reviews/Freedom.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vico & Eve Reviews/Lista de cosas para ver.md"
+                "file": "Vico & Eve Reviews/Freedom.canvas"
               }
             }
           }
@@ -146,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cda468e735397d2",
+  "active": "2d8ee7e5e90f3a02",
   "lastOpenFiles": [
-    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
-    "Vico & Eve Reviews/Lista de cosas para ver.md",
-    "Vico & Eve Reviews/Freedom.canvas",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
+    "Vico & Eve Reviews/Lista de cosas para ver.md",
+    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
+    "Vico & Eve Reviews/Freedom.canvas",
     "Stuff/ThisIsNotCorny.canvas",
     "Stuff/Sueños e historias incompletas.md",
     "Stuff/both 🌿.md",
