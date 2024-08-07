@@ -5,5 +5,5 @@
 - [x] ¿Algo acerca de los hijos?
 - [ ] Los celos son amigos, no comida. 
 - [x] 20 de julio 
-- [ ] Mandarle contenido de dibujo.
+- [x] Mandarle contenido de dibujo.
 - [ ] Eve: las cosas materiales. Cartas perdidas, tazas rotas. 
