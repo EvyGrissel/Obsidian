@@ -5,7 +5,7 @@
 - [ ] [[Caricaturas, episodios fav]]
 - [ ] [[Jodorowsky's Dune]]
 - [x] [[Malcolm in the middle]] | 26.06.2024 - 
-- [ ] [[The Thing (1982)]]
+- [x] [[The Thing (1982)]] | 22.08.2024
 - [ ] [[The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson]] | 31.07.2024
 - [ ] [[Paris, Texas (1984)]]
 - [ ] [[Lautrec - Roger Planchon (1998)]]
