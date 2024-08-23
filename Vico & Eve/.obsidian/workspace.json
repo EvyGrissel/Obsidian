@@ -11,14 +11,11 @@
             "id": "a05c7e4a943a6616",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vico & Eve Reviews/Freedom.canvas",
-                "viewState": {
-                  "x": 2232.813010929892,
-                  "y": 869.0193726349597,
-                  "zoom": -2.3315284144029533
-                }
+                "file": "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "file": "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vico & Eve Reviews/Freedom.canvas",
+                "file": "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vico & Eve Reviews/Freedom.canvas"
+                "file": "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md"
               }
             }
           }
@@ -141,17 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "a05c7e4a943a6616",
   "lastOpenFiles": [
     "The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson.md",
+    "Vico & Eve Reviews/The Thing (1982).md",
     "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
     "Vico & Eve Reviews/Lista de cosas para ver.md",
     "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
