@@ -3,3 +3,4 @@
 - Postre favorito: eclair
 - Vicaris: vicarious - tool
 - earthbound mother 2
+- Películas favs: The thing (1982) | 
