@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62fdfdab8049a7ef",
+        "id": "ca2e186844acc8e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a05c7e4a943a6616",
+            "id": "4ed4360a0f21d59b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stuff/Sueños e historias incompletas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stuff/Sueños e historias incompletas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stuff/Sueños e historias incompletas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stuff/Sueños e historias incompletas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a05c7e4a943a6616",
+  "active": "4ed4360a0f21d59b",
   "lastOpenFiles": [
-    "Stuff/ThisIsNotCorny.canvas",
-    "Stuff/Sueños e historias incompletas.md",
-    "Stuff/Datos de Vico✌.md",
-    "Stuff/Datos de Eve 🐱.md",
     "Stuff/both 🌿.md",
+    "R.A.D.A.R/R.A.D.A.R.md",
+    "R.A.D.A.R/10.15.2024.md",
+    "R.A.D.A.R",
+    "Stuff/ThisIsNotCorny.canvas",
+    "Vico & Eve Reviews/Lista de cosas para ver.md",
+    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
+    "Vico & Eve Reviews/Freedom.canvas",
+    "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
+    "Stuff/Datos de Eve 🐱.md",
+    "Stuff/Datos de Vico✌.md",
+    "Stuff/Sueños e historias incompletas.md",
     "Pending topics to talk - Ev & Vico/Topics.md",
     "Archivos/1962.png",
     "Archivos/Atticus y Jean.png",
@@ -161,15 +160,11 @@
     "Archivos/Protagonista de Scout.png",
     "Archivos/Richie being Richie.png",
     "Archivos/nosomoscursis.png",
-    "Vico & Eve Reviews/Freedom.canvas",
     "Archivos/No sé qué significa lo que anoté.jpg",
     "Archivos/Cosas que a Vico le gustan x3.jpg",
     "Archivos/Cosas que a Vico le gustan x2.jpg",
     "Vico & Eve Reviews/The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson.md",
-    "Vico & Eve Reviews/Lista de cosas para ver.md",
     "Vico & Eve Reviews/The Thing - John Carpenter (1982).md",
-    "Vico & Eve Reviews/To Kill a Mockingbird - Robert Mulligan.md",
-    "Vico & Eve Reviews/Annie Hall - Woody Allen.md",
     "Archivos/MeridaJulio"
   ]
 }

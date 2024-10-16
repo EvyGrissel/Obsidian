@@ -2,7 +2,7 @@
 - [x] [[To Kill a Mockingbird - Robert Mulligan]] | 02.07.2024
 - [ ] [[Exit Through the Gift Shop - Banksy]] 
 - [ ] [[Damien Hirst_: Treasures From the Wreck of the Unbelievable]]
-- [ ] [[Caricaturas, episodios fav]]
+- [x] [[Caricaturas, episodios fav]]
 - [ ] [[Jodorowsky's Dune]]
 - [x] [[Malcolm in the middle]] | 26.06.2024 - 
 - [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
@@ -11,6 +11,6 @@
 - [ ] [[Lautrec - Roger Planchon (1998)]]
 - [ ] [[Pride & Prejudice - Joe Wright (2006)]]
 - [ ] [[Párpados azules - Ernesto Contreras (2008)]] | 15.08.2024
-- [ ] [[The Thing - John Carpenter (1982)]] | 22.08.2024
+- [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
 - [ ] [[Lotte am Bauhaus - Gregor Schnitzler (2019)]]
 - [ ] 
