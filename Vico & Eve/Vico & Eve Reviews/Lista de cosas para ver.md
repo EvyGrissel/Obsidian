@@ -6,11 +6,12 @@
 - [ ] [[Jodorowsky's Dune]]
 - [x] [[Malcolm in the middle]] | 26.06.2024 - 
 - [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
-- [ ] [[The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson]] | 31.07.2024
+- [x] [[The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson]] | 31.07.2024
 - [ ] [[Paris, Texas (1984)]]
 - [ ] [[Lautrec - Roger Planchon (1998)]]
 - [ ] [[Pride & Prejudice - Joe Wright (2006)]]
-- [ ] [[Párpados azules - Ernesto Contreras (2008)]] | 15.08.2024
+- [x] [[Párpados azules - Ernesto Contreras (2008)]] | 15.08.2024
 - [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
 - [ ] [[Lotte am Bauhaus - Gregor Schnitzler (2019)]]
-- [ ] 
+- [x] [[Avatar Spirits - Kurt Mattila (2010)]] | 02.12.2024
+- [ ] Arcane S2 | 11.12.24
