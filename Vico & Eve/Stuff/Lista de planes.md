@@ -1,1 +1,2 @@
 - [ ] Ir a Pachuco's
+- [ ] Ir a SimiCasa - Similandia
