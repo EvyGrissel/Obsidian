@@ -1,4 +1,4 @@
-- we met on june 6
+- Nos conocimos el 6 de junio de 2024
 - 23
 -  No nos gustan los spoilers
 - M

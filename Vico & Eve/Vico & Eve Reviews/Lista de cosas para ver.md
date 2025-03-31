@@ -4,6 +4,7 @@
 - [ ] [[Damien Hirst_: Treasures From the Wreck of the Unbelievable]]
 - [x] [[Caricaturas, episodios fav]]
 - [ ] [[Jodorowsky's Dune]]
+- [x] Antichrist (2009) | 14.09.2024
 - [x] [[Malcolm in the middle]] | 26.06.2024 - 
 - [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
 - [x] [[The Wonderful Story of Henry Sugar and Three More (2024) - Wes Anderson]] | 31.07.2024
@@ -14,4 +15,10 @@
 - [x] [[The Thing - John Carpenter (1982)]] | 22.08.2024
 - [ ] [[Lotte am Bauhaus - Gregor Schnitzler (2019)]]
 - [x] [[Avatar Spirits - Kurt Mattila (2010)]] | 02.12.2024
-- [ ] Arcane S2 | 11.12.24
+- [x] Arcane S2 | 11.12.24
+- [x] Bodies Bodies Bodies (2022) | 01.22.2025
+- [x] Good Time (2017) | 18.11.2024
+- [x] Blue Ruin (2013) | 22.01.2024
+- [x] Young Frankenstein (1974) | 23.02.2025
+- [x] Better Man (2024) | 26.02.2025 
+- [ ] [[Adaptation (2002)]]
